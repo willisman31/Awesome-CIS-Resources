@@ -1,5 +1,5 @@
 # CIS-Resources
-This is a list of all my Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to practitioners.
+This is a list of Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students.
 Support open source projects by donating or contributing whenever possible!
 * Information Security
 * Web Development
@@ -8,9 +8,11 @@ Support open source projects by donating or contributing whenever possible!
 * Cloud Computing
 * Databases
 * Artificial Intelligence
+* News
 ## Information Security
 * [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
 * [hackerOne](https://www.hackerone.com/)
+* [Sans](https://www.sans.org/)
 ## Web Development
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 * [W3 Schools](https://www.w3schools.com/)
@@ -29,10 +31,12 @@ Support open source projects by donating or contributing whenever possible!
 ### R
 * [R for Data Science](https://r4ds.had.co.nz/introduction.html)
 * [Data Visualization with R](https://socviz.co/)
+### Rust
+* [Why Rust?](https://www.oreilly.com/content/why-rust/)
 ## Systems Development
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 ## Cloud Computing
-* 
+* [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
 ## Databases
 ### SQL
 * 
@@ -46,3 +50,8 @@ Support open source projects by donating or contributing whenever possible!
 ### Deep Learning
 * [Fast.AI](https://course.fast.ai/)
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
+## News
+* [Krebs on Security](https://krebsonsecurity.com/)
+* [Kaspersky](https://www.kaspersky.com/blog/)
+* [Techcrunch](https://techcrunch.com/)
+* [Techmeme](https://www.techmeme.com/)
