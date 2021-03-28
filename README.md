@@ -1,5 +1,5 @@
 # CIS-Resources
-This is a list of Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students.
+This is a list of free Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students.
 Support open source projects by donating or contributing whenever possible!
 * [Information Security](https://github.com/willisman31/CIS-Resources#information-security)
 * [Web Development](https://github.com/willisman31/CIS-Resources#web-development)
@@ -21,6 +21,9 @@ Support open source projects by donating or contributing whenever possible!
 * [Codewars](https://www.codewars.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Codingbat](https://codingbat.com/java)
+* [Leetcode](https://leetcode.com/)
+### C++
+* [Codecademy](https://www.codecademy.com/)
 ### Java
 * [API](https://docs.oracle.com/javase/7/docs/api/)
 * [Java: The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view) by Herbert Schildt 9th Edition(2014)
@@ -47,7 +50,7 @@ Support open source projects by donating or contributing whenever possible!
 * [w3schools](https://www.w3schools.com/sql/)
 ## Artificial Intelligence
 ### Math
-* 
+* [Khan Academy](https://www.khanacademy.org/math)
 ### Machine Learning
 * [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 ### Statistical Learning
@@ -56,7 +59,8 @@ Support open source projects by donating or contributing whenever possible!
 * [Fast.AI](https://course.fast.ai/)
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
 ## News
-* [Krebs on Security](https://krebsonsecurity.com/)
+* [Dark Reading](https://www.darkreading.com/)
 * [Kaspersky](https://www.kaspersky.com/blog/)
+* [Krebs on Security](https://krebsonsecurity.com/)
 * [Techcrunch](https://techcrunch.com/)
 * [Techmeme](https://www.techmeme.com/)
