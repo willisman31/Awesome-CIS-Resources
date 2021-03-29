@@ -1,5 +1,5 @@
 # CIS-Resources
-This is a list of free Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students.
+This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students.
 Support open source projects by donating or contributing whenever possible!
 * [Information Security](https://github.com/willisman31/CIS-Resources#information-security)
 * [Web Development](https://github.com/willisman31/CIS-Resources#web-development)
@@ -9,6 +9,7 @@ Support open source projects by donating or contributing whenever possible!
 * [Databases](https://github.com/willisman31/CIS-Resources#databases)
 * [Artificial Intelligence](https://github.com/willisman31/CIS-Resources#artificial-intelligence)
 * [News](https://github.com/willisman31/CIS-Resources#news)
+* [Certifications](https://github.com/willisman31/CIS-Resources#certifications)
 ## Information Security
 * [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
 * [hackerOne](https://www.hackerone.com/)
@@ -53,6 +54,7 @@ Support open source projects by donating or contributing whenever possible!
 * [Khan Academy](https://www.khanacademy.org/math)
 ### Machine Learning
 * [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+* [Journal of Machine Learning Research](https://www.jmlr.org/)
 ### Statistical Learning
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 ### Deep Learning
@@ -60,7 +62,23 @@ Support open source projects by donating or contributing whenever possible!
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
 ## News
 * [Dark Reading](https://www.darkreading.com/)
+* [Engadget](https://www.engadget.com/)
+* [Gizmodo](https://gizmodo.com/)
+* [IEEE Spectrum](https://spectrum.ieee.org/)
 * [Kaspersky](https://www.kaspersky.com/blog/)
 * [Krebs on Security](https://krebsonsecurity.com/)
+* [Light Reading](https://www.lightreading.com/)
+* [Mac Rumors](https://www.macrumors.com/)
 * [Techcrunch](https://techcrunch.com/)
 * [Techmeme](https://www.techmeme.com/)
+* [Tech Talks](https://bdtechtalks.com/)
+* [Tom's Guide](https://www.tomsguide.com/)
+* [ZDNet](https://www.zdnet.com/)
+* [9to5Google](https://9to5google.com/)
+* [9to5Mac](https://9to5mac.com/)
+## Certifications
+* [freecodecamp](https://www.freecodecamp.org/)
+* [HackerRank](https://www.hackerrank.com/)
+* [Google Analytics](https://analytics.google.com/analytics/academy/)
+* [Sans](https://www.sans.org/)
+* [w3Schools](https://www.w3schools.com/)
