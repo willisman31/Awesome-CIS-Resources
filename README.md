@@ -53,6 +53,7 @@ Support open source projects by donating or contributing whenever possible!
 ### Math
 * [Khan Academy](https://www.khanacademy.org/math)
 ### Machine Learning
+* [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by Alan Turing; Mind 1950
 * [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 * [Journal of Machine Learning Research](https://www.jmlr.org/)
 ### Statistical Learning
@@ -60,6 +61,7 @@ Support open source projects by donating or contributing whenever possible!
 ### Deep Learning
 * [Fast.AI](https://course.fast.ai/)
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
+* [Intro to Deep Learning Video Series](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by MIT
 ## News
 * [Dark Reading](https://www.darkreading.com/)
 * [Engadget](https://www.engadget.com/)
