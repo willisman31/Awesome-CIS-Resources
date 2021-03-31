@@ -13,6 +13,7 @@ Support open source projects by donating or contributing whenever possible!
 ## Information Security
 * [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
 * [hackerOne](https://www.hackerone.com/)
+* [Computer Systems Security](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
 * [Sans](https://www.sans.org/)
 ## Web Development
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
@@ -32,6 +33,7 @@ Support open source projects by donating or contributing whenever possible!
 * [Data Visualization with JavaScript](https://www.freecodecamp.org/learn/data-visualization/)
 * [Revolunet JS Books](https://jsbooks.revolunet.com/)
 ### Python
+* [Intro to CS and Python Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) by MIT
 * [Programming for Computations](https://link.springer.com/book/10.1007/978-3-030-16877-3)
 * [Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 * [Revolunet Python Books](https://pythonbooks.revolunet.com/)
@@ -43,15 +45,21 @@ Support open source projects by donating or contributing whenever possible!
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
 ## Systems Development
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+* [Agile Manifesto](https://agilemanifesto.org/)
+* [Scrum Guide](https://scrumguides.org/)
 ## Cloud Computing
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
 * [Bash Scripting](https://www.shellscript.sh/index.html)
 ## Databases
+### Big Data
+* [Big Data Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) by Harvard
 ### SQL
 * [w3schools](https://www.w3schools.com/sql/)
 ## Artificial Intelligence
 ### Math
+* [Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) by Harvard
 * [Khan Academy](https://www.khanacademy.org/math)
+* [Math of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) by MIT
 ### Machine Learning
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by Alan Turing; Mind 1950
 * [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
