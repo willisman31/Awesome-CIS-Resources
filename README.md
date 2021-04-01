@@ -14,6 +14,7 @@ Support open source projects by donating or contributing whenever possible!
 * [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
 * [hackerOne](https://www.hackerone.com/)
 * [Computer Systems Security](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
+* [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
 * [Sans](https://www.sans.org/)
 ## Web Development
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
@@ -26,6 +27,7 @@ Support open source projects by donating or contributing whenever possible!
 * [Leetcode](https://leetcode.com/)
 ### C++
 * [Codecademy](https://www.codecademy.com/)
+* [CISCO Net Academy](https://www.netacad.com/courses/programming)
 ### Java
 * [API](https://docs.oracle.com/javase/7/docs/api/)
 * [Java: The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view) by Herbert Schildt 9th Edition(2014)
