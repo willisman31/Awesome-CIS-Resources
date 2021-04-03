@@ -48,6 +48,8 @@ Support open source projects by donating or contributing whenever possible!
 ## Systems Development
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Agile Manifesto](https://agilemanifesto.org/)
+* [Extreme Programming](https://ronjeffries.com/xprog/what-is-extreme-programming/)
+* [Mountain Goat Software: What is Scrum?](https://www.mountaingoatsoftware.com/agile/scrum)
 * [Scrum Guide](https://scrumguides.org/)
 ## Cloud Computing
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
