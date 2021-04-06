@@ -16,6 +16,7 @@ Support open source projects by donating or contributing whenever possible!
 * [Computer Systems Security](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
 * [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
 * [Sans](https://www.sans.org/)
+* [CISSP Exam Prep](https://github.com/willisman31/CIS-Resources#CISSP-certification-prep)
 ## Web Development
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 * [W3 Schools](https://www.w3schools.com/)
@@ -96,3 +97,9 @@ Support open source projects by donating or contributing whenever possible!
 * [Google Analytics](https://analytics.google.com/analytics/academy/)
 * [Sans](https://www.sans.org/)
 * [w3Schools](https://www.w3schools.com/)
+### CISSP Certification Prep
+* [CISSP Course](https://www.youtube.com/playlist?list=PLTU5Z3BsEq4CBM_9b9diThR5bCo3YYo7c)
+* [IT Dojo](https://www.youtube.com/channel/UCwUkAunxT1BNbmKVOSEoqYA)
+* [Why You Will Pass the CISSP](https://www.youtube.com/watch?v=-99b1YUFx0A)
+* [How to Pass the CISSP Exam](https://www.youtube.com/watch?v=FHuzohDiD50) (a little bit dated, but still relevant)
+* [CISSP Exam Tips](https://www.youtube.com/watch?v=eLYbFtS7G9E)
