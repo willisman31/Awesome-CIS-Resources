@@ -93,12 +93,12 @@ Support open source projects by donating or contributing whenever possible!
 * [9to5Google](https://9to5google.com/)
 * [9to5Mac](https://9to5mac.com/)
 ## Certifications
-* [CISSP Certification](https://www.isc2.org/Certifications/CISSP)
+* [CISSP Certification](https://www.isc2.org/Certifications/CISSP) (Paid, but very useful)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Google Analytics](https://analytics.google.com/analytics/academy/)
 * [Sans](https://www.sans.org/)
-* [Professional Scrum Certifications](https://www.scrum.org/professional-scrum-certifications)
+* [Professional Scrum Certifications](https://www.scrum.org/professional-scrum-certifications) (Paid, but very useful)
 * [w3Schools](https://www.w3schools.com/)
 ### CISSP Certification Prep
 * [CISSP Course](https://www.youtube.com/playlist?list=PLTU5Z3BsEq4CBM_9b9diThR5bCo3YYo7c)
