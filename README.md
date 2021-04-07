@@ -52,6 +52,7 @@ Support open source projects by donating or contributing whenever possible!
 * [Extreme Programming](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 * [Mountain Goat Software: What is Scrum?](https://www.mountaingoatsoftware.com/agile/scrum)
 * [Scrum Guide](https://scrumguides.org/)
+* [What is SDLC?](https://www.freecodecamp.org/news/what-is-sdlc-software-development-life-cycle-phases-methodologies-and-processes-explained/)
 ## Cloud Computing
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
 * [Bash Scripting](https://www.shellscript.sh/index.html)
@@ -92,10 +93,12 @@ Support open source projects by donating or contributing whenever possible!
 * [9to5Google](https://9to5google.com/)
 * [9to5Mac](https://9to5mac.com/)
 ## Certifications
+* [CISSP Certification](https://www.isc2.org/Certifications/CISSP)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Google Analytics](https://analytics.google.com/analytics/academy/)
 * [Sans](https://www.sans.org/)
+* [Professional Scrum Certifications](https://www.scrum.org/professional-scrum-certifications)
 * [w3Schools](https://www.w3schools.com/)
 ### CISSP Certification Prep
 * [CISSP Course](https://www.youtube.com/playlist?list=PLTU5Z3BsEq4CBM_9b9diThR5bCo3YYo7c)
