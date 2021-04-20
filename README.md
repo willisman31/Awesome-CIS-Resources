@@ -60,6 +60,9 @@ Support open source projects by donating or contributing whenever possible!
 ### Big Data
 * [Big Data Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) by Harvard
 ### SQL
+* [Basic SQL Tutorial Video](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3159s)
+* [Databases and SQL Long Tutorial Video](https://www.youtube.com/watch?v=4cWkVbC2bNE&t=596s)
+* [postgresql](https://www.postgresql.org/)
 * [w3schools](https://www.w3schools.com/sql/)
 ## Artificial Intelligence
 ### Math
