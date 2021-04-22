@@ -49,8 +49,12 @@ Support open source projects by donating or contributing whenever possible!
 ## Systems Development
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Agile Manifesto](https://agilemanifesto.org/)
+* [Agile Alliance](https://www.agilealliance.org/)
 * [Extreme Programming](https://ronjeffries.com/xprog/what-is-extreme-programming/)
+* [infoQ: Software Development News](https://www.infoq.com/?variant=homepage_collections)
+* [Kaizenko](https://www.kaizenko.com/) - Scrum Training
 * [Mountain Goat Software: What is Scrum?](https://www.mountaingoatsoftware.com/agile/scrum)
+* [Scrum Alliance](https://www.scrumalliance.org/)
 * [Scrum Guide](https://scrumguides.org/)
 * [What is SDLC?](https://www.freecodecamp.org/news/what-is-sdlc-software-development-life-cycle-phases-methodologies-and-processes-explained/)
 ## Cloud Computing
