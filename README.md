@@ -23,12 +23,12 @@ Support open source projects by donating or contributing whenever possible!
 ## Programming
 ### Practice
 * [Codewars](https://www.codewars.com/)
-* [HackerRank](https://www.hackerrank.com/)
 * [Codingbat](https://codingbat.com/java)
+* [HackerRank](https://www.hackerrank.com/)
 * [Leetcode](https://leetcode.com/)
 ### C++
-* [Codecademy](https://www.codecademy.com/)
 * [CISCO Net Academy](https://www.netacad.com/courses/programming)
+* [Codecademy](https://www.codecademy.com/)
 ### Java
 * [API](https://docs.oracle.com/javase/7/docs/api/)
 * [Java: The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view) by Herbert Schildt 9th Edition(2014)
@@ -41,15 +41,15 @@ Support open source projects by donating or contributing whenever possible!
 * [Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 * [Revolunet Python Books](https://pythonbooks.revolunet.com/)
 ### R
-* [R for Data Science](https://r4ds.had.co.nz/introduction.html)
 * [Data Visualization with R](https://socviz.co/)
+* [R for Data Science](https://r4ds.had.co.nz/introduction.html)
 ### Rust
-* [Why Rust?](https://www.oreilly.com/content/why-rust/)
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)
+* [Why Rust?](https://www.oreilly.com/content/why-rust/)
 ## Systems Development
-* [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Agile Manifesto](https://agilemanifesto.org/)
 * [Agile Alliance](https://www.agilealliance.org/)
+* [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Extreme Programming](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 * [infoQ: Software Development News](https://www.infoq.com/?variant=homepage_collections)
 * [Kaizenko](https://www.kaizenko.com/) - Scrum Training
@@ -80,8 +80,8 @@ Support open source projects by donating or contributing whenever possible!
 ### Statistical Learning
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 ### Deep Learning
-* [Fast.AI](https://course.fast.ai/)
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
+* [Fast.AI](https://course.fast.ai/)
 * [Intro to Deep Learning Video Series](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by MIT
 ## News
 * [Dark Reading](https://www.darkreading.com/)
@@ -100,12 +100,9 @@ Support open source projects by donating or contributing whenever possible!
 * [9to5Google](https://9to5google.com/)
 * [9to5Mac](https://9to5mac.com/)
 ## Certifications
-* [CISSP Certification](https://www.isc2.org/Certifications/CISSP) (Paid, but very useful)
 * [freecodecamp](https://www.freecodecamp.org/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Google Analytics](https://analytics.google.com/analytics/academy/)
-* [Sans](https://www.sans.org/)
-* [Professional Scrum Certifications](https://www.scrum.org/professional-scrum-certifications) (Paid, but very useful)
 * [w3Schools](https://www.w3schools.com/)
 ### CISSP Certification Prep
 * [CISSP Course](https://www.youtube.com/playlist?list=PLTU5Z3BsEq4CBM_9b9diThR5bCo3YYo7c)
