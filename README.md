@@ -24,6 +24,7 @@ Support open source projects by donating or contributing whenever possible!
 ### Practice
 * [Codewars](https://www.codewars.com/)
 * [Codingbat](https://codingbat.com/java)
+* [Github's Learn to Code Collection](https://github.com/collections/learn-to-code)
 * [HackerRank](https://www.hackerrank.com/)
 * [Leetcode](https://leetcode.com/)
 ### C++
