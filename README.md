@@ -1,6 +1,5 @@
 # CIS-Resources
-This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students.
-Support open source projects by donating or contributing whenever possible!
+This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students. Support open source projects by donating or contributing whenever possible! <br />Start with this [article about learning](https://tim.blog/2013/05/20/accelerated-learning-techniques/) on Tim Ferriss's website.
 * [Information Security](https://github.com/willisman31/CIS-Resources#information-security)
 * [Web Development](https://github.com/willisman31/CIS-Resources#web-development)
 * [Programming](https://github.com/willisman31/CIS-Resources#programming)
