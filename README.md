@@ -72,6 +72,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 ### Math
 * [Advanced Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) by Harvard
 * [Khan Academy](https://www.khanacademy.org/math)
+* [Math for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 * [Math of Big Data and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) by MIT
 ### Machine Learning
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by Alan Turing; Mind 1950
