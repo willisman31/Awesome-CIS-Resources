@@ -19,6 +19,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 ## Web Development
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 * [W3 Schools](https://www.w3schools.com/)
+* [webopedia](https://www.webopedia.com/)
 ## Programming
 ### Practice
 * [Codewars](https://www.codewars.com/)
