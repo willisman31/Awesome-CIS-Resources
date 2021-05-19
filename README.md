@@ -88,6 +88,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Fast.AI](https://course.fast.ai/)
 * [Intro to Deep Learning Video Series](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by MIT
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [TensorFlow Playground](http://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=8,8,4,2&seed=0.32263&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 ## News
 * [Dark Reading](https://www.darkreading.com/)
 * [Engadget](https://www.engadget.com/)
