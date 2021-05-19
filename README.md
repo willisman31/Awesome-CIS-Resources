@@ -82,6 +82,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Open Source YouTube ML Resources](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 ### Statistical Learning
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
+* [Introduction to Statistical Learning with Applications for R](https://drive.google.com/file/d/1kKGNXAmR2IYo9FUAbaU7iUfr1d7zgBcn/view?usp=sharing)
 ### Deep Learning
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
 * [Fast.AI](https://course.fast.ai/)
