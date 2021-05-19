@@ -79,12 +79,14 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Computing Machinery and Intelligence](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by Alan Turing; Mind 1950
 * [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 * [Journal of Machine Learning Research](https://www.jmlr.org/)
+* [Open Source YouTube ML Resources](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 ### Statistical Learning
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 ### Deep Learning
 * [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville; MIT Press 2016
 * [Fast.AI](https://course.fast.ai/)
 * [Intro to Deep Learning Video Series](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) by MIT
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 ## News
 * [Dark Reading](https://www.darkreading.com/)
 * [Engadget](https://www.engadget.com/)
