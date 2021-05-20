@@ -80,6 +80,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Hands on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 * [Journal of Machine Learning Research](https://www.jmlr.org/)
 * [Open Source YouTube ML Resources](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) By Kevin Patrick Murphy
 ### Statistical Learning
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Introduction to Statistical Learning with Applications for R](https://drive.google.com/file/d/1kKGNXAmR2IYo9FUAbaU7iUfr1d7zgBcn/view?usp=sharing)
