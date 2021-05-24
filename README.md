@@ -17,6 +17,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Sans](https://www.sans.org/)
 * [CISSP Exam Prep](https://github.com/willisman31/CIS-Resources#CISSP-certification-prep)
 ## Web Development
+* [CSS Tricks](https://css-tricks.com/)
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 * [W3 Schools](https://www.w3schools.com/)
 * [webopedia](https://www.webopedia.com/)
