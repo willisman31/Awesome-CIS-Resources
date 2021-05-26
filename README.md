@@ -16,6 +16,11 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
 * [Sans](https://www.sans.org/)
 * [CISSP Exam Prep](https://github.com/willisman31/CIS-Resources#CISSP-certification-prep)
+### Hacking Practice
+* [Hack the box](https://www.hackthebox.eu/)
+* [Port Swigger](https://portswigger.net/)
+* [Root Me](https://www.root-me.org/?lang=en)
+* [Try Hack Me](https://tryhackme.com/)
 ## Web Development
 * [CSS Tricks](https://css-tricks.com/)
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
