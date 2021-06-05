@@ -4,7 +4,7 @@
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
 * [NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
 * [webopedia](https://www.webopedia.com/)
-
+* [Frontend or Backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
 ## CSS
 * [CSS Tricks](https://css-tricks.com/)
 * [W3 CSS Framework Tutorial](https://www.w3schools.com/w3css/default.asp)
