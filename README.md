@@ -72,11 +72,13 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 ## Databases
 ### Big Data
 * [Big Data Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) by Harvard
+* [Learn Hadoop](https://www.tutorialspoint.com/hadoop/index.htm) Big Data Analysis Framework
 * [Tech Target](https://searchoracle.techtarget.com/)
 ### SQL
 * [Basic SQL Tutorial Video](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3159s)
 * [Databases and SQL Long Tutorial Video](https://www.youtube.com/watch?v=4cWkVbC2bNE&t=596s)
 * [postgresql](https://www.postgresql.org/)
+* [SQL Tutorial](https://www.sqltutorial.org/)
 * [w3schools](https://www.w3schools.com/sql/)
 ## Artificial Intelligence
 ### Math
