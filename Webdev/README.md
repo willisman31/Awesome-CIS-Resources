@@ -19,6 +19,7 @@
 * [Revolunet JS Books](https://jsbooks.revolunet.com/)
 * [W3 Schools JS Tutorial](https://www.w3schools.com/js/default.asp)
 ## PHP
+* [Learn PHP](https://www.learn-php.org/)
 * [W3 Schools PHP Tutorial](https://www.w3schools.com/php/default.asp)
 ## Web Hosting
 * [GitHub Pages](https://pages.github.com/)
