@@ -76,6 +76,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Tech Target](https://searchoracle.techtarget.com/)
 ### SQL
 * [Basic SQL Tutorial Video](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=3159s)
+* [Convert CSV to SQL Commands](https://www.convertcsv.com/csv-to-sql.htm)
 * [Databases and SQL Long Tutorial Video](https://www.youtube.com/watch?v=4cWkVbC2bNE&t=596s)
 * [postgresql](https://www.postgresql.org/)
 * [SQL Tutorial](https://www.sqltutorial.org/)
