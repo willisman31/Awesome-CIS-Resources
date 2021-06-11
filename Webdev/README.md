@@ -1,9 +1,9 @@
 # Web Development
 
 ## General
-* [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+* [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/) Responsive Web Design
 * [NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
-* [webopedia](https://www.webopedia.com/)
+* [webopedia](https://www.webopedia.com/) IT and Computer Dictionary
 * [Frontend or Backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
 ## CSS
 * [CSS Cheat Sheet](https://htmlcheatsheet.com/css/)
