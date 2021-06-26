@@ -21,6 +21,9 @@
 ## PHP
 * [Learn PHP](https://www.learn-php.org/)
 * [W3 Schools PHP Tutorial](https://www.w3schools.com/php/default.asp)
+## Search Engine Optimization (SEO)
+* [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
+* [Google's SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=en&visit_id=637600824644441524-1532168446&rd=1)
 ## Web Hosting
 * [GitHub Pages](https://pages.github.com/)
 * [Weebly](https://www.weebly.com/)
