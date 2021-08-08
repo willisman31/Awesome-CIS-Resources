@@ -28,3 +28,6 @@ While you do not need a degree or a certification to get in the door to informat
 * [Why You Will Pass the CISSP](https://www.youtube.com/watch?v=-99b1YUFx0A)
 * [How to Pass the CISSP Exam](https://www.youtube.com/watch?v=FHuzohDiD50) (a little bit dated, but still relevant)
 * [CISSP Exam Tips](https://www.youtube.com/watch?v=eLYbFtS7G9E)
+## Practice
+* [Capture the Flags](https://ctftime.org/event/list/upcoming)
+* [Hacker101 CTF](https://ctf.hacker101.com/)

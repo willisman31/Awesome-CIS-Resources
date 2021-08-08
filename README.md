@@ -47,6 +47,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 ### Python
 * [Intro to CS and Python Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) by MIT
 * [Programming for Computations](https://link.springer.com/book/10.1007/978-3-030-16877-3)
+* [Python for Everyone](https://www.py4e.com/lessons)
 * [Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 * [Revolunet Python Books](https://pythonbooks.revolunet.com/)
 ### R
