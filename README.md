@@ -1,7 +1,7 @@
 # CIS-Resources
 This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students. Support open source projects by donating or contributing whenever possible! <br />Start with this [article about learning](https://tim.blog/2013/05/20/accelerated-learning-techniques/) on Tim Ferriss's website.
-* [Information Security](https://github.com/willisman31/CIS-Resources#information-security)
-* [Web Development](https://github.com/willisman31/CIS-Resources#web-development)
+* [Information Security](https://github.com/willisman31/CIS-Resources/tree/main/InfoSec)
+* [Web Development](https://github.com/willisman31/CIS-Resources/tree/main/Webdev)
 * [Programming](https://github.com/willisman31/CIS-Resources#programming)
 * [Systems Development](https://github.com/willisman31/CIS-Resources#systems-development)
 * [Cloud Computing](https://github.com/willisman31/CIS-Resources#cloud-computing)
@@ -9,24 +9,6 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Artificial Intelligence](https://github.com/willisman31/CIS-Resources#artificial-intelligence)
 * [News](https://github.com/willisman31/CIS-Resources#news)
 * [Certifications](https://github.com/willisman31/CIS-Resources#certifications)
-## Information Security
-* [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
-* [hackerOne](https://www.hackerone.com/)
-* [Computer Systems Security](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
-* [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
-* [Sans](https://www.sans.org/)
-* [CISSP Exam Prep](https://github.com/willisman31/CIS-Resources#CISSP-certification-prep)
-### Pen Testing Environments
-* [Hack the box](https://www.hackthebox.eu/)
-* [Port Swigger](https://portswigger.net/)
-* [Root Me](https://www.root-me.org/?lang=en)
-* [Try Hack Me](https://tryhackme.com/)
-## Web Development
-* [CSS Tricks](https://css-tricks.com/)
-* [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
-* [NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
-* [W3 Schools](https://www.w3schools.com/)
-* [webopedia](https://www.webopedia.com/)
 ## Programming
 ### Practice
 * [Codewars](https://www.codewars.com/)
@@ -123,14 +105,3 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [ZDNet](https://www.zdnet.com/)
 * [9to5Google](https://9to5google.com/)
 * [9to5Mac](https://9to5mac.com/)
-## Certifications
-* [freecodecamp](https://www.freecodecamp.org/)
-* [HackerRank](https://www.hackerrank.com/)
-* [Google Analytics](https://analytics.google.com/analytics/academy/)
-* [w3Schools](https://www.w3schools.com/)
-### CISSP Certification Prep
-* [CISSP Course](https://www.youtube.com/playlist?list=PLTU5Z3BsEq4CBM_9b9diThR5bCo3YYo7c)
-* [IT Dojo](https://www.youtube.com/channel/UCwUkAunxT1BNbmKVOSEoqYA)
-* [Why You Will Pass the CISSP](https://www.youtube.com/watch?v=-99b1YUFx0A)
-* [How to Pass the CISSP Exam](https://www.youtube.com/watch?v=FHuzohDiD50) (a little bit dated, but still relevant)
-* [CISSP Exam Tips](https://www.youtube.com/watch?v=eLYbFtS7G9E)

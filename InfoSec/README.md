@@ -15,8 +15,10 @@
 * [Port Swigger](https://portswigger.net/)
 * [Root Me](https://www.root-me.org/?lang=en)
 * [Try Hack Me](https://tryhackme.com/)
+* [Public Firing Range](https://public-firing-range.appspot.com/)
 ## Web Application Security
 * [OWASP](https://owasp.org/)
+* [PortSwigger Academy](https://portswigger.net/web-security)
 ## InfoSec Certification Prep
 While you do not need a degree or a certification to get in the door to information security roles, it certainly does not hurt to have them.  CompTIA certifications tend to offer pretty good bang for your buck.  CompTIA certs start at $126 for fundamentals and go up to $466 for the advanced security practitioner test (CASP+).  Some certs may be needed for government infosec roles, the DoD has released [these requirements](https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/)- known as DODD 8140 or DODD 8570- for certain roles relating to cybersecurity contracts and work within certain departments of the DoD.  These requirements may be cited when applying to cybersecurity roles at government contractors.  The CISSP is another certification that is often cited as a good standard within the industry.  Certifications are not innately valuable, they only serve as proof of minimum understanding of broad concepts and there is little value in chasing certifications unless you are interested in a role that requires them.
 ### CompTIA Security+ Exam
