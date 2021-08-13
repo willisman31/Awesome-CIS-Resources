@@ -3,11 +3,17 @@
 ## General
 * [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
 * [hackerOne](https://www.hackerone.com/)
+* [HackCenter](https://hacktivity.com/index.php/hackcenter/)
+* [HackersCenter](http://www.hackerscenter.com/)
 * [Computer Systems Security](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
 * [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
 * [Sans](https://www.sans.org/)
 * [CSFI](https://www.csfi.us/)
 * [CISA](https://www.cisa.gov/)
+## Vulnerabilities
+### Buffer Overflow
+* [Baggy Bounds Checking](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/baggy-USENIX2009.pdf)
+* [Hacking Blind](http://crypto.stanford.edu/~dabo/pubs/abstracts/brop.html)
 ## Penetration Testing
 * [Penetration Testing Execution Standard (PTES)](http://www.pentest-standard.org/index.php/Main_Page)
 ### Pentesting Practice Environments
@@ -17,6 +23,7 @@
 * [Try Hack Me](https://tryhackme.com/)
 * [Public Firing Range](https://public-firing-range.appspot.com/)
 ## Web Application Security
+* [OKWS](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf) (OK Web Server)
 * [OWASP](https://owasp.org/)
 * [PortSwigger Academy](https://portswigger.net/web-security)
 ## InfoSec Certification Prep
@@ -33,3 +40,4 @@ While you do not need a degree or a certification to get in the door to informat
 ## Practice
 * [Capture the Flags](https://ctftime.org/event/list/upcoming)
 * [Hacker101 CTF](https://ctf.hacker101.com/)
+* [MicroCorruption](https://microcorruption.com/login)
