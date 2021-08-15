@@ -50,6 +50,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Scrum Guide](https://scrumguides.org/)
 * [What is SDLC?](https://www.freecodecamp.org/news/what-is-sdlc-software-development-life-cycle-phases-methodologies-and-processes-explained/)
 ## Cloud Computing
+Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform.
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
 * [Bash Scripting](https://www.shellscript.sh/index.html)
 ## Databases
