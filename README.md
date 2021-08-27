@@ -1,5 +1,5 @@
 # CIS-Resources
-This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students. Support open source projects by donating or contributing whenever possible! <br />Start with this [article about learning](https://tim.blog/2013/05/20/accelerated-learning-techniques/) on Tim Ferriss's website.
+This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students. Support open source projects by donating or contributing whenever possible! 
 * [Information Security](https://github.com/willisman31/CIS-Resources/tree/main/InfoSec)
 * [Web Development](https://github.com/willisman31/CIS-Resources/tree/main/Webdev)
 * [Programming](https://github.com/willisman31/CIS-Resources#programming)
@@ -50,7 +50,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Scrum Guide](https://scrumguides.org/)
 * [What is SDLC?](https://www.freecodecamp.org/news/what-is-sdlc-software-development-life-cycle-phases-methodologies-and-processes-explained/)
 ## Cloud Computing
-Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform.
+Cloud computing is one of the fastest growing areas of information systems; it has evolved into a multi-billion dollar industry which is in need of skilled practitioners. Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform; they also offer free usage on new accounts of some products for the first year.
 * [AWS Training](https://www.aws.training/)
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
 * [Bash Scripting](https://www.shellscript.sh/index.html)
