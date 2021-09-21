@@ -15,7 +15,7 @@
 * [Baggy Bounds Checking](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/baggy-USENIX2009.pdf)
 * [Hacking Blind](http://crypto.stanford.edu/~dabo/pubs/abstracts/brop.html)
 ## Penetration Testing
-Penetration testing, or white hat hacking, is a legal form of hacking (or social engineering) used to test an organization's information security systems.  
+Penetration testing, bug bounty hunting, and white hat hacking are legal forms of hacking (or social engineering) used to test an organization's information security systems.
 * [Penetration Testing Execution Standard (PTES)](http://www.pentest-standard.org/index.php/Main_Page)
 * [OSINT Framework](https://osintframework.com/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) 
@@ -45,3 +45,4 @@ While you do not need a degree or a certification to get in the door to informat
 * [Capture the Flags](https://ctftime.org/event/list/upcoming)
 * [Hacker101 CTF](https://ctf.hacker101.com/)
 * [MicroCorruption](https://microcorruption.com/login)
+* [W3Challs](https://w3challs.com/)
