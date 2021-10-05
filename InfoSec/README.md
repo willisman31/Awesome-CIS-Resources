@@ -1,6 +1,7 @@
 # Information Security
 
 ## General
+* [5 Pillars](https://github.com/DFIRmadness/5pillars/blob/master/5-Pillars.md)
 * [freecodecamp](https://www.freecodecamp.org/learn/information-security/)
 * [hackerOne](https://www.hackerone.com/)
 * [HackCenter](https://hacktivity.com/index.php/hackcenter/)
@@ -20,18 +21,7 @@ Penetration testing, bug bounty hunting, and white hat hacking are legal forms o
 * [OSINT Framework](https://osintframework.com/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) 
 * [OSINT Resources from SANS](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
-### Pentesting Practice Environments
-* [Hack the box](https://www.hackthebox.eu/)
-* [Port Swigger](https://portswigger.net/)
-* [Root Me](https://www.root-me.org/?lang=en)
-* [Try Hack Me](https://tryhackme.com/)
-* [Public Firing Range](https://public-firing-range.appspot.com/)
-### Capture the Flag
-Capture the flag or CTF competitions are hacking competitions between many teams.  There are two kinds of CTF- Jeopardy style and attack-defense.  In a Jeopardy style CTF, the competitors are given clues and are tasked with finding a flag that may be hidden on a webpage, within an encrypted file, or any number of different methods.  In an attack defense CTF, the teams set up their own server and they all try to break into each other's machine.  Jeopardy style CTFs are much more common.
-* [CTF Time](https://ctftime.org/)
-* [Major League Cyber](https://www.majorleaguecyber.org/)
-* [W3Challs](https://w3challs.com/)
-* [Wargames](https://overthewire.org/wargames/)
+* [NMap](https://nmap.org/book/toc.html)
 ## Web Application Security
 * [OKWS](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf) (OK Web Server)
 * [OWASP](https://owasp.org/)
@@ -50,7 +40,23 @@ While you do not need a degree or a certification to get in the door to informat
 * [How to Pass the CISSP Exam](https://www.youtube.com/watch?v=FHuzohDiD50) (a little bit dated, but still relevant)
 * [CISSP Exam Tips](https://www.youtube.com/watch?v=eLYbFtS7G9E)
 ## Practice
-* [Capture the Flags](https://ctftime.org/event/list/upcoming)
+### Capture the Flag
+Capture the flag or CTF competitions are hacking competitions between many teams.  There are two kinds of CTF- Jeopardy style and attack-defense.  In a Jeopardy style CTF, the competitors are given clues and are tasked with finding a flag that may be hidden on a webpage, within an encrypted file, or any number of different methods.  In an attack defense CTF, the teams set up their own server and they all try to break into each other's machine.  Jeopardy style CTFs are much more common.
+* [CTF101](https://ctf101.org/)
+* [CTF Time](https://ctftime.org/)
 * [Hacker101 CTF](https://ctf.hacker101.com/)
+* [Major League Cyber](https://www.majorleaguecyber.org/)
 * [MicroCorruption](https://microcorruption.com/login)
 * [W3Challs](https://w3challs.com/)
+* [Wargames](https://overthewire.org/wargames/)
+### Pentesting Practice Environments
+* [Hack the box](https://www.hackthebox.eu/)
+* [Port Swigger](https://portswigger.net/)
+* [Root Me](https://www.root-me.org/?lang=en)
+* [Try Hack Me](https://tryhackme.com/)
+* [Public Firing Range](https://public-firing-range.appspot.com/)
+## Networking
+* [Sunny Classroom](https://www.youtube.com/channel/UCr0Ze4SR3MHXAgz1TvRYL7Q)
+### Protocols
+* [FTP](https://www.ietf.org/rfc/rfc959.txt)
+* [NFS](https://docs.oracle.com/cd/E19683-01/816-4882/6mb2ipq7l/index.html)

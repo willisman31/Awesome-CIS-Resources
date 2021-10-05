@@ -98,6 +98,14 @@ Cloud computing is one of the fastest growing areas of information systems; it h
 * [TensorFlow Playground](http://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=8,8,4,2&seed=0.32263&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 * [Interactive Visualization of Word Vectorization](https://github.com/lamyiowce/word2viz)
 * [Yann LeCun's Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
+## Linux
+* [Arch Linux](https://archlinux.org/)
+* [Bash Commands](https://ss64.com/bash/)
+* [Linux](https://www.linux.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Linux NFS](http://nfs.sourceforge.net/)
+* [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
+* [Ubuntu](https://ubuntu.com/) A good place to start
 ## News
 * [Dark Reading](https://www.darkreading.com/)
 * [Engadget](https://www.engadget.com/)
