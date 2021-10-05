@@ -26,10 +26,18 @@ Penetration testing, bug bounty hunting, and white hat hacking are legal forms o
 * [Root Me](https://www.root-me.org/?lang=en)
 * [Try Hack Me](https://tryhackme.com/)
 * [Public Firing Range](https://public-firing-range.appspot.com/)
+### Capture the Flag
+Capture the flag or CTF competitions are hacking competitions between many teams.  There are two kinds of CTF- Jeopardy style and attack-defense.  In a Jeopardy style CTF, the competitors are given clues and are tasked with finding a flag that may be hidden on a webpage, within an encrypted file, or any number of different methods.  In an attack defense CTF, the teams set up their own server and they all try to break into each other's machine.  Jeopardy style CTFs are much more common.
+* [CTF Time](https://ctftime.org/)
+* [Major League Cyber](https://www.majorleaguecyber.org/)
+* [W3Challs](https://w3challs.com/)
+* [Wargames](https://overthewire.org/wargames/)
 ## Web Application Security
 * [OKWS](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf) (OK Web Server)
 * [OWASP](https://owasp.org/)
 * [PortSwigger Academy](https://portswigger.net/web-security)
+## Security Intelligence
+* [The Security Intelligence Handbook](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition.pdf)
 ## InfoSec Certification Prep
 While you do not need a degree or a certification to get in the door to information security roles, it certainly does not hurt to have them.  CompTIA certifications tend to offer pretty good bang for your buck.  CompTIA certs start at $126 for fundamentals and go up to $466 for the advanced security practitioner test (CASP+).  Some certs may be needed for government infosec roles, the DoD has released [these requirements](https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/)- known as DoDD 8140 or DoDA 8570- for certain roles relating to cybersecurity contracts and work within certain departments of the DoD.  These requirements may be cited when applying to cybersecurity roles at government contractors.  The CISSP is another certification that is often cited as a good standard within the industry.  Certifications are not innately valuable, they only serve as proof of minimum understanding of broad concepts and there is little value in chasing certifications unless you are interested in a role that requires them.
 ### CompTIA Security+ Exam
