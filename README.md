@@ -17,6 +17,9 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [HackerRank](https://www.hackerrank.com/)
 * [Leetcode](https://leetcode.com/)
 * [Repl.It Online IDE](https://replit.com/)
+### Containers
+* [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+* [Kubernetes Security Guide](https://www.techrepublic.com/resource-library/downloads/kubernetes-security-guide-free-pdf/)
 ### C++
 * [CISCO Net Academy](https://www.netacad.com/courses/programming)
 * [Codecademy](https://www.codecademy.com/)
@@ -41,7 +44,6 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 ## Systems Development
 * [Agile Manifesto](https://agilemanifesto.org/)
 * [Agile Alliance](https://www.agilealliance.org/)
-* [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Extreme Programming](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 * [infoQ: Software Development News](https://www.infoq.com/?variant=homepage_collections)
 * [Kaizenko](https://www.kaizenko.com/) - Scrum Training

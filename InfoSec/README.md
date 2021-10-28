@@ -7,7 +7,8 @@
 * [HackCenter](https://hacktivity.com/index.php/hackcenter/)
 * [HackersCenter](http://www.hackerscenter.com/)
 * [Computer Systems Security](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
-* [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
+* [Live Overflow](https://liveoverflow.com/)
+* [Reddit Hacking](https://new.reddit.com/r/hacking/wiki/index)
 * [Sans](https://www.sans.org/)
 * [CSFI](https://www.csfi.us/)
 * [CISA](https://www.cisa.gov/)
@@ -26,7 +27,16 @@ Penetration testing, bug bounty hunting, and white hat hacking are legal forms o
 * [OKWS](https://pdos.csail.mit.edu/papers/okws-usenix04.pdf) (OK Web Server)
 * [OWASP](https://owasp.org/)
 * [PortSwigger Academy](https://portswigger.net/web-security)
-## Security Intelligence
+## Reverse Engineering
+* [GHIDRA](https://github.com/NationalSecurityAgency/ghidra)
+* [OllyDbg](http://www.ollydbg.de/)
+## Operating Systems
+* [PEASS](https://github.com/carlospolop/PEASS-ng)
+* [Threat Hunting in Windows Processes](https://www.threathunting.se/tag/windows-process/)
+* [Windows NT](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
+* [Windows 10 Credential Guard](https://yungchou.wordpress.com/2016/03/14/an-introduction-of-windows-10-credential-guard/)
+* [Windows 10 Typosquatting Services](https://www.hexacorn.com/blog/2015/12/18/the-typographical-and-homomorphic-abuse-of-svchost-exe-and-other-popular-file-names/)
+## Threat Intelligence
 * [The Security Intelligence Handbook](https://go.recordedfuture.com/hubfs/ebooks/security-intelligence-handbook-third-edition.pdf)
 ## InfoSec Certification Prep
 While you do not need a degree or a certification to get in the door to information security roles, it certainly does not hurt to have them.  CompTIA certifications tend to offer pretty good bang for your buck.  CompTIA certs start at $126 for fundamentals and go up to $466 for the advanced security practitioner test (CASP+).  Some certs may be needed for government infosec roles, the DoD has released [these requirements](https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/)- known as DoDD 8140 or DoDA 8570- for certain roles relating to cybersecurity contracts and work within certain departments of the DoD.  These requirements may be cited when applying to cybersecurity roles at government contractors.  The CISSP is another certification that is often cited as a good standard within the industry.  Certifications are not innately valuable, they only serve as proof of minimum understanding of broad concepts and there is little value in chasing certifications unless you are interested in a role that requires them.
@@ -47,6 +57,7 @@ Capture the flag or CTF competitions are hacking competitions between many teams
 * [Hacker101 CTF](https://ctf.hacker101.com/)
 * [Major League Cyber](https://www.majorleaguecyber.org/)
 * [MicroCorruption](https://microcorruption.com/login)
+* [NSA Codebreaker Challenge](https://nsa-codebreaker.org/challenge)
 * [W3Challs](https://w3challs.com/)
 * [Wargames](https://overthewire.org/wargames/)
 ### Pentesting Practice Environments
@@ -55,8 +66,28 @@ Capture the flag or CTF competitions are hacking competitions between many teams
 * [Root Me](https://www.root-me.org/?lang=en)
 * [Try Hack Me](https://tryhackme.com/)
 * [Public Firing Range](https://public-firing-range.appspot.com/)
+### Pentesting
+* [Rules of Engagement](https://sansorg.egnyte.com/dl/bF4I3yCcnt/?)
+* [Enumeration](https://resources.infosecinstitute.com/topic/what-is-enumeration/)
 ## Networking
+* [CISCO Net Academy](https://www.netacad.com/courses/cybersecurity)
+* [Netcat](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections)
+* [NMap Book](https://nmap.org/book/intro.html)
 * [Sunny Classroom](https://www.youtube.com/channel/UCr0Ze4SR3MHXAgz1TvRYL7Q)
 ### Protocols
+* [Basic FTP Commands](https://www.cs.colostate.edu/helpdocs/ftp.html)
 * [FTP](https://www.ietf.org/rfc/rfc959.txt)
+* [FTP Protection](https://www.jscape.com/blog/bid/91906/Countering-Packet-Sniffers-Using-Encrypted-FTP)
+* [ICMP Reverse Shell](https://resources.infosecinstitute.com/topic/icmp-reverse-shell/#gref)
 * [NFS](https://docs.oracle.com/cd/E19683-01/816-4882/6mb2ipq7l/index.html)
+* [NFS Wiki](https://en.wikipedia.org/wiki/Network_File_System#Typical_implementation)
+* [NFS Mounting](https://www.mccdaq.com/PDFs/Manuals/DT7816_WebHelp/Using_NFS_Mounting_to_Copy_Files.htm)
+### DNS
+* [DNS Hierarchy](https://www.novell.com/documentation/dns_dhcp/?page=/documentation/dns_dhcp/dhcp_enu/data/behdbhhj.html)
+## Security Frameworks
+* [Cyber Assessment Framework](https://www.ncsc.gov.uk/collection/caf/caf-principles-and-guidance)
+* [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+* [NIST SP 800-53](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf) Security and Privacy Controls for Information Systems
+* [NIST SP 800-61](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf) Computer Security Incident Handling Guide
+* [NIST SP 800-171](https://nvlpubs.nist.gov/nistpubs/hb/2017/nist.hb.162.pdf) Self Assessment Handbook for Assessing Cybersecurity
+* [Open Source Security Testing Methodology Manual 3](https://www.isecom.org/OSSTMM.3.pdf) (OSSTMM 3)
