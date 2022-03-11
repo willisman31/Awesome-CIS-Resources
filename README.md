@@ -59,10 +59,9 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Martin Fowler](https://martinfowler.com/)
 * [Transparent Uptime](http://www.transparentuptime.com/)
 ## Cloud Computing
-Cloud computing is one of the fastest growing areas of information systems; it has evolved into a multi-billion dollar industry which is in need of skilled practitioners. Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform; they also offer free usage on new accounts of some products for the first year.
+Cloud computing is one of the fastest growing areas of information systems; it has evolved into a multi-billion dollar industry which is in need of skilled practitioners. Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform; they also offer free usage on new accounts of some products for the first year, Azure also offers $100-150 of computing resources depending on your program of study.
 * [AWS Training](https://www.aws.training/)
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
-* [Bash Scripting](https://www.shellscript.sh/index.html)
 ## Databases
 ### Big Data
 * [Big Data Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) by Harvard
@@ -103,6 +102,7 @@ Cloud computing is one of the fastest growing areas of information systems; it h
 ## Linux
 * [Arch Linux](https://archlinux.org/)
 * [Bash Commands](https://ss64.com/bash/)
+* [Bash Scripting](https://www.shellscript.sh/index.html)
 * [Linux](https://www.linux.org/)
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [Linux NFS](http://nfs.sourceforge.net/)
