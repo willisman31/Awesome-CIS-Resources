@@ -20,6 +20,9 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 ### Containers
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [Kubernetes Security Guide](https://www.techrepublic.com/resource-library/downloads/kubernetes-security-guide-free-pdf/)
+### C#
+* [C# Tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+* [Microsoft C# Reference](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 ### C++
 * [CISCO Net Academy](https://www.netacad.com/courses/programming)
 * [Codecademy](https://www.codecademy.com/)
@@ -30,6 +33,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [Data Visualization with JavaScript](https://www.freecodecamp.org/learn/data-visualization/)
 * [Revolunet JS Books](https://jsbooks.revolunet.com/)
 ### Python
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Intro to CS and Python Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) by MIT
 * [Programming for Computations](https://link.springer.com/book/10.1007/978-3-030-16877-3)
 * [Python for Everyone](https://www.py4e.com/lessons)
@@ -62,6 +66,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 Cloud computing is one of the fastest growing areas of information systems; it has evolved into a multi-billion dollar industry which is in need of skilled practitioners. Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform; they also offer free usage on new accounts of some products for the first year, Azure also offers $100-150 of computing resources depending on your program of study.
 * [AWS Training](https://www.aws.training/)
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
+* [Google Cloud Tutorial](https://cloud.google.com/docs/get-started)
 ## Databases
 ### Big Data
 * [Big Data Algorithms](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) by Harvard
