@@ -10,7 +10,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 * [News](https://github.com/willisman31/CIS-Resources#news)
 * [Certifications](https://github.com/willisman31/CIS-Resources#certifications)
 
-If you are enrolled in a large school or university, you likely have a subscription to O'Reilly books included; this is a yearly subscription which offers access to thousands of books, videos, and other technical study resources. If you are a current student, you can check for access [here](https://learning.oreilly.com/home/).
+If you are enrolled in a large school or university, you likely have a subscription to O'Reilly books included; this is a yearly subscription which offers access to thousands of books, videos, and other technical study resources. If you are a current student, you can check for access [here](https://learning.oreilly.com/home/) and sign in with your university credentials.
 ## Programming
 ### Practice
 * [Codewars](https://www.codewars.com/)
