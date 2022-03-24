@@ -116,6 +116,7 @@ Cloud computing is one of the fastest growing areas of information systems; it h
 * [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
 * [Operating Systems From 0 to 1](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
 * [Ubuntu](https://ubuntu.com/) A good place to start
+* [ZShell](https://zsh.sourceforge.io/Guide/)
 ## News
 * [Dark Reading](https://www.darkreading.com/)
 * [Engadget](https://www.engadget.com/)
