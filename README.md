@@ -13,6 +13,7 @@ This is a list of <em>free</em> Computer Information Systems resources.  The ful
 If you are enrolled in a large school or university, you likely have a subscription to O'Reilly books included; this is a yearly subscription which offers access to thousands of books, videos, and other technical study resources. If you are a current student, you can check for access [here](https://learning.oreilly.com/home/) and sign in with your university credentials.
 ## Programming
 ### Practice
+* [Coderbyte](https://coderbyte.com)
 * [Codewars](https://www.codewars.com/)
 * [Codingbat](https://codingbat.com/java)
 * [Github's Learn to Code Collection](https://github.com/collections/learn-to-code)
@@ -21,6 +22,7 @@ If you are enrolled in a large school or university, you likely have a subscript
 * [Repl.It Online IDE](https://replit.com/)
 ### Containers
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
+* [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * [Kubernetes Security Guide](https://www.techrepublic.com/resource-library/downloads/kubernetes-security-guide-free-pdf/)
 ### C#
 * [C# Tutorial from FreeCodeCamp](https://www.youtube.com/watch?v=GhQdlIFylQ8)
@@ -28,6 +30,7 @@ If you are enrolled in a large school or university, you likely have a subscript
 ### C++
 * [CISCO Net Academy](https://www.netacad.com/courses/programming)
 * [Codecademy](https://www.codecademy.com/)
+* [C++ Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 ### Java
 * [API](https://docs.oracle.com/javase/7/docs/api/)
 * [Java: The Complete Reference](https://drive.google.com/file/d/1FWUTT4x8BI-v0_SIf50HHNvyKdPw1gYq/view) by Herbert Schildt 9th Edition(2014)
@@ -68,6 +71,7 @@ If you are enrolled in a large school or university, you likely have a subscript
 Cloud computing is one of the fastest growing areas of information systems; it has evolved into a multi-billion dollar industry which is in need of skilled practitioners. Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform; they also offer free usage on new accounts of some products for the first year, Azure also offers $100-150 of computing resources depending on your program of study.
 * [AWS Training](https://www.aws.training/)
 * [Azure Tutorials](https://docs.microsoft.com/en-us/learn/browse/?terms=Azure)
+* [Digital Ocean](https://www.digitalocean.com/community/tutorials)
 * [Google Cloud Tutorial](https://cloud.google.com/docs/get-started)
 ## Databases
 ### Big Data
@@ -122,7 +126,6 @@ Cloud computing is one of the fastest growing areas of information systems; it h
 * [Engadget](https://www.engadget.com/)
 * [Gizmodo](https://gizmodo.com/)
 * [IEEE Spectrum](https://spectrum.ieee.org/)
-* [Kaspersky](https://www.kaspersky.com/blog/)
 * [Krebs on Security](https://krebsonsecurity.com/)
 * [Light Reading](https://www.lightreading.com/)
 * [Mac Rumors](https://www.macrumors.com/)
