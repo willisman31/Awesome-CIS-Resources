@@ -1,4 +1,4 @@
-# CIS-Resources
+# Awesome-CIS-Resources
 
 This is a list of <em>free</em> Computer Information Systems resources.  The full scope of this list ventures outside the realm of CIS, but all of them should be interesting and useful to other students. Support open source projects by donating or contributing whenever possible! 
 
@@ -28,9 +28,11 @@ If you are enrolled in a large school or university, you likely have a subscript
 
 ### Containers
 
+Containers are used as a means of providing a consistent environment for distributed applications.  What this means is that a container contains an app and all the dependencies that app needs to run on the kinds of systems in which it is expected to be used.  If you're familiar with the concept of a virtual machine, containers are very similar.  Docker is the most common container engine, but it has fairly recently become a paid service.
+
+* [Containerd](https://containerd.io/docs/)
 * [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
-* [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-* [Kubernetes Security Guide](https://www.techrepublic.com/resource-library/downloads/kubernetes-security-guide-free-pdf/)
+* [Podman](https://podman.io/)
 
 ### C#
 
@@ -93,7 +95,17 @@ If you are enrolled in a large school or university, you likely have a subscript
 * [Martin Fowler](https://martinfowler.com/)
 * [Transparent Uptime](http://www.transparentuptime.com/)
 
-## Cloud Computing
+## Hosting
+
+### Kubernetes
+
+Kubernetes is an orchestration platform- it is used to distribute systems across numerous different **nodes** and build systems for reliability and durability.  
+
+* [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+* [Kubernetes Security Guide](https://www.techrepublic.com/resource-library/downloads/kubernetes-security-guide-free-pdf/)
+* [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+### Cloud Computing
 
 Cloud computing is one of the fastest growing areas of information systems; it has evolved into a multi-billion dollar industry which is in need of skilled practitioners. Students of participating universities are eligible for up to hundreds of dollars in free credits from major CSPs.  AWS offers $100 per year to students to learn how to use their platform; they also offer free usage on new accounts of some products for the first year, Azure also offers $100-200 of computing resources depending on your program of study.
 
