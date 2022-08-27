@@ -3,10 +3,11 @@
 ## General
 
 * [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/) Responsive Web Design
+* [Frontend or Backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
 * [NGINX Handbook](https://www.freecodecamp.org/news/the-nginx-handbook/)
+* [Repl.it](https://replit.com/)
 * [webopedia](https://www.webopedia.com/) IT and Computer Dictionary
 * [web page tester](https://webpagetest.org/)
-* [Frontend or Backend](https://www.geeksforgeeks.org/frontend-vs-backend/)
 
 ## CSS
 
@@ -39,10 +40,46 @@
 
 ## Web Hosting
 
-* [GitHub Pages](https://pages.github.com/)
+Options for web hosting have grown tremendously with the maturation of cloud services, now there are tons of services to help you put your site on the web.  While you could open up your local network and host your website(s) for free, you would open yourself up to tons of security vulnerabilities- the options I've enumerated below are almost as free and don't put your network security at risk.
+
+### Managed Web Hosting
+
+These services are anything but free; however, for many they are the first step in learning how to develop websites.  These are low or no-code options that let you experience web design and deployment without code or deep technical knowledge.
+
+* [Squarespace](https://www.squarespace.com/)
 * [Weebly](https://www.weebly.com/)
-* [Wix](https://www.wix.com/freesitebuilder/hiker-create?utm_source=google&utm_medium=cpc&utm_campaign=11393149096^110416204726&experiment_id=wix^e^473461032658^&cq_src=google_ads&cq_cmp=11393149096&cq_con=110416204726&cq_term=wix&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&gclid=Cj0KCQjwweyFBhDvARIsAA67M73SwItt0uB9tHImVeZ2sccCcLJY9w_U8fDARRffhOIlV7EglIR48a4aAn5OEALw_wcB)
-* [Wordpress](https://wordpress.com/)
+* [Wix](https://www.wix.com/)
+* [Wordpress](https://www.google.com/search?client=firefox-b-1-d&q=wordpress)
+
+### IaaS
+
+These providers are not the only cloud providers on the market, but they are by far the biggest and most reputable.  They also all feature a free tier on some of their tools and services.  If you want to experience full stack development, these cloud providers have well known offerings to help.
+
+* AWS
+* Azure
+* Digital Ocean
+* Google Cloud Compute
+
+### PaaS
+
+These various platforms are great places to start your first blog or practice your frontend development skills for free.  All of these services have free tiers or trial periods that can be used to help you learn your trade without needing any backend development knowledge.
+
+* [AWS Lightsail](https://aws.amazon.com/lightsail/)
+* [Bun](https://oven.sh/)
+* [Cloudflare Workers](https://workers.cloudflare.com/)
+* [Deno](https://deno.com/deploy)
+* [Fly](https://fly.io/)
+* [GitHub Pages](https://pages.github.com/)
+* [Glitch](https://glitch.com/)
+* [Google Firebase](https://firebase.google.com/)
+* [Heroku](https://www.heroku.com/home)
+* [Linode](https://www.linode.com/)
+* [Netlify](https://www.netlify.com/)
+* [Qoddi](https://qoddi.com/)
+* [Railway](https://railway.app/)
+* [Render](https://render.com/)
+* [Surge](https://surge.sh/)
+* [Vercel](https://vercel.com/)
 
 ## DNS
 
@@ -51,3 +88,10 @@ Domain Name System (DNS) is the mechanism for translating URLs into IP addresses
 * [AWS DNS](https://aws.amazon.com/route53/what-is-dns/)
 * [Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
 * [Google DNS](https://developers.google.com/speed/public-dns)
+
+## Wordpress
+
+Wordpress powers a huge percentage of the internet- this isn't the managed hosting provider mentioned earlier, this is a well-designed framework which can be deployed for free as part of the **LAMP** stack.  The LAMP stack is made up of Linux, Apache Web Server, MySQL or MariaDB, and PHP and it is very popular because it is completely free and completely open source.  Wordpress is easy to use and a great introduction into full stack web development.  
+
+* [Wordpress](https://wordpress.org/)
+* [AWS Walkthrough](https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/)
