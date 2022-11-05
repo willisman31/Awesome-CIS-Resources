@@ -28,6 +28,7 @@ Penetration testing, bug bounty hunting, and white hat hacking are legal forms o
 * [Penetration Testing Execution Standard (PTES)](http://www.pentest-standard.org/index.php/Main_Page)
 * [OSINT Framework](https://osintframework.com/)
 * [Have I Been Pwned](https://haveibeenpwned.com/) 
+* [OffSec Blog](https://www.offensive-security.com/blog/)
 * [OSINT Resources from SANS](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 * [NMap](https://nmap.org/book/toc.html)
 
