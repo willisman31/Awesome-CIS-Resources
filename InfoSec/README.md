@@ -129,3 +129,30 @@ Capture the flag or CTF competitions are hacking competitions between many teams
 * [NIST SP 800-61](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf) Computer Security Incident Handling Guide
 * [NIST SP 800-171](https://nvlpubs.nist.gov/nistpubs/hb/2017/nist.hb.162.pdf) Self Assessment Handbook for Assessing Cybersecurity
 * [Open Source Security Testing Methodology Manual 3](https://www.isecom.org/OSSTMM.3.pdf) (OSSTMM 3)
+
+## Security News
+
+* [all InfoSec news](https://allinfosecnews.com/)
+* [Bank of Information Security](https://www.bankinfosecurity.com/)
+* [BBC](https://www.bbc.com/news/topics/cz4pr2gd85qt)
+* [Bleeping Computer](https://www.bleepingcomputer.com/)
+* [cybernews](https://cybernews.com/)
+* [GIZMODO](https://gizmodo.com/tech)
+* [Infosecurity-Magazine](https://www.infosecurity-magazine.com/)
+* [Krebs on Security](https://krebsonsecurity.com/)
+* [Portswigger Daily Swig](https://portswigger.net/daily-swig)
+* [Project Zero](https://googleprojectzero.blogspot.com/)
+* [The Record](https://therecord.media/news/cybercrime/)
+* [The Register](https://www.theregister.com/security/)
+* [SCmagazine](https://www.scmagazine.com/)
+* [SecurityWizardry](https://www.securitywizardry.com/)
+* [Sophos Naked Security](https://nakedsecurity.sophos.com/)
+* [MIT Technology Review](https://www.technologyreview.com/)
+* [tech.co](https://tech.co/)
+* [Threatpost](https://threatpost.com/)
+* [VentureBeat](https://venturebeat.com/)
+* [Vice](https://www.vice.com/en/topic/cyber)
+* [Vox](https://www.vox.com/technology)
+* [WeLiveSecurity](https://www.welivesecurity.com/)
+* [Wired](https://www.wired.com/tag/cybersecurity/)
+* [Zdnet](https://www.zdnet.com/topic/security/)
