@@ -194,3 +194,7 @@ Cloud computing is one of the fastest growing areas of information systems; it h
 * [ZDNet](https://www.zdnet.com/)
 * [9to5Google](https://9to5google.com/)
 * [9to5Mac](https://9to5mac.com/)
+
+## Cool Papers
+
+* [Twine](https://www.usenix.org/system/files/osdi20-tang.pdf)
